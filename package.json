@@ -1,0 +1,17 @@
+{
+  "name": "prismic",
+  "version": "1.0.0",
+  "description": "A discord bot api wrapper with functions.",
+  "main": "./lib/index.js",
+  "types": "./types/library.d.ts",
+  "author": "Wayvshock",
+  "license": "Apache-2.0",
+  "private": false,
+  "devDependencies": {
+    "@types/ws": "^8.2.0",
+    "typescript": "^4.5.1-rc"
+  },
+  "dependencies": {
+    "ws": "^8.2.3"
+  }
+}
